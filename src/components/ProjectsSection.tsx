@@ -155,7 +155,7 @@ const projects = [
 	{
 		id: 6,
 		title: "Costco Website Redesign",
-		image: "UX.png",
+		image: "/Portfolio/UX.png",
 		category: "UI/UX Design",
 		shortDescription: "15-day design sprint improving membership conversion and user experience, achieving SUS score improvement from 68 to 82.",
 		fullDescription: "Comprehensive UX redesign addressing membership signup friction, product discovery challenges, and checkout abandonment through user research, prototyping, and usability testing.",
@@ -188,7 +188,7 @@ const projects = [
 	{
 		id: 7,
 		title: "Autonomous Vehicle Integration System",
-		image: "Agile.png",
+		image: "/Portfolio/Agile.png",
 		category: "Agile Development & Systems Integration",
 		shortDescription: "Capstone project implementing Agile methodologies and Scrum practices through a theoretical autonomous vehicle integration study.",
 		fullDescription: "Ten-week Agile capstone project focused on learning and applying Agile principles and Scrum methodologies through a theoretical study of autonomous vehicle integration into metropolitan traffic networks. The project emphasized practical application of Agile practices rather than technical implementation.",
