@@ -11,7 +11,7 @@ const freelanceProjects = [
     type: "Logo Design",
     count: "2 Projects",
     image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&h=600&fit=crop",
-    technologies: ["Canva", "Adobe Illustrator", "Figma", "Design Systems"],
+    technologies: ["Canva", "Adobe Illustrator", "Figma", "Design Systems", "AI Tools (GitHub Copilot, Lovable) - Vibe Coding"],
     description: "Created custom brand identities for local businesses and startups",
     details: {
       process: [
