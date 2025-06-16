@@ -131,7 +131,7 @@ const SkillsSection = () => {
 			<Dialog open={!!selectedCert} onOpenChange={() => setSelectedCert(null)}>
 				<DialogContent className="max-w-3xl">
 					<img
-						src={selectedCert === 'neu' ? '/NEU.png' : selectedCert === 'bits' ? '/BPDC.png' : selectedCert === 'scrum' ? '/Scrum.png' : ''}
+						src={selectedCert === 'neu' ? '/Portfolio/NEU.png' : selectedCert === 'bits' ? '/Portfolio/BPDC.png' : selectedCert === 'scrum' ? '/Portfolio/Scrum.png' : ''}
 						alt="Certificate"
 						className="w-full rounded-lg"
 					/>

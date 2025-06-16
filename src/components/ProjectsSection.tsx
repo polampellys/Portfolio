@@ -9,7 +9,7 @@ const projects = [
 	{
 		id: 1,
 		title: "Media Cost Prediction & Model Interpretability",
-		image: "DSEM.png",
+		image: "/Portfolio/DSEM.png",
 		category: "Data Science & Machine Learning",
 		shortDescription: "Engineered ML workflows using linear regression, decision tree, and AutoML models to predict media costs with 20% accuracy improvement.",
 		fullDescription: "Developed comprehensive machine learning workflows using Python to predict media costs across different channels and campaigns. Implemented multiple algorithms including linear regression, decision trees, and AutoML models, achieving significant performance improvements through advanced feature engineering and model interpretability techniques.",
@@ -36,7 +36,7 @@ const projects = [
 	{
 		id: 2,
 		title: "Boston Hospital Management System",
-		image: "AED.png",
+		image: "/Portfolio/AED.png",
 		category: "Enterprise Application Development",
 		shortDescription: "Comprehensive hospital ecosystem supporting four operational modules with role-based access, reducing data retrieval time by 40%.",
 		fullDescription: "Developed a unified healthcare management platform using Java Swing that integrates Hospital, Ambulance, Diagnostics, and Pharmacy operations into a single secure system. The application features role-based access controls, real-time tracking, and advanced reporting functionality.",
@@ -63,7 +63,7 @@ const projects = [
 	{
 		id: 3,
 		title: "Travilago Travel Booking Platform",
-		image: "WEBD.png",
+		image: "/Portfolio/WEBD.png",
 		category: "Full-Stack Web Development",
 		shortDescription: "Scalable travel booking platform with ReactJS frontend, Node.js backend, and MongoDB integration, improving system efficiency by 33%.",
 		fullDescription: "Built a comprehensive travel booking website featuring responsive user interfaces, secure backend APIs, and real-time data management. The platform includes advanced authentication, payment processing, and booking management systems.",
@@ -91,7 +91,7 @@ const projects = [
 	{
 		id: 4,
 		title: "Trivia Parking Space Management",
-		image: "DP.png",
+		image: "/Portfolio/DP.png",
 		category: "Design Patterns & Architecture",
 		shortDescription: "Parking management system implementing 9 GoF design patterns with multi-tier services and wallet-based payments.",
 		fullDescription: "Comprehensive parking management application featuring three service tiers (Green, Gold, Orange) with integrated car wash and inspection services. Demonstrates mastery of object-oriented design principles through implementation of multiple design patterns.",
@@ -128,7 +128,7 @@ const projects = [
 	{
 		id: 5,
 		title: "Boston Transit Database Management (BTDMS)",
-		image: "DMDD.png",
+		image: "/Portfolio/DMDD.png",
 		category: "Database Design & Analytics",
 		shortDescription: "Comprehensive MBTA database solution with security encryption, performance optimization, and Power BI dashboards.",
 		fullDescription: "End-to-end database management system for Massachusetts Bay Transportation Authority featuring advanced security measures, performance optimization, and interactive reporting dashboards.",

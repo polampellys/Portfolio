@@ -32,7 +32,7 @@ const freelanceProjects = [
         {
           id: 1,
           name: "Tales of Aarambh",
-          image: "/ARAMBH.png",
+          image: "/Portfolio/ARAMBH.png",
           story: `The Challenge:
 Create a brand identity for an event management agency that emphasizes culture and tradition while incorporating specific initials: A, R, M, B.
 
@@ -65,7 +65,7 @@ The result is a brand identity that brings stories to life through events, roote
         {
           id: 2,
           name: "XR.AM",
-          image: "/Logo1.png",
+          image: "/Portfolio/Logo1.png",
           story: `I remember when the client first described their agency: a marketing firm built around AR and VR technologies, named XR.AM. They were clear that the logo must stay monochrome and uncluttered, yet must spotlight "XR" while still hinting at marketing. At first I wondered how to signal virtual reality without adding obvious icons. Then it struck me: the simplest cue for VR is the headset silhouette. Placing a small, outline-style headset above the "X" felt subtle yet recognizable. To show "and marketing," we kept "AM" slightly smaller, separated by a dot so the letters stayed close but distinct. This maintained the bold focus on "XR" while keeping the agency aspect visible but secondary.
 
 As I refined the logotype, I chose sturdy, minimalist letterforms for "XR," knowing they anchor the tech-forward identity. The dot before "AM" prevented awkward spacing if "AM" were the same size. Once the core mark felt balanced, I turned to conveying marketing without extra icons. Since the client insisted on no additional symbols, I proposed a concise tagline: "Immersive Reality Marketing." Placed beneath the logo in a clean, legible font, it immediately tells viewers that the agency fuses immersive tech with marketing services. In small contexts—favicons or social avatars—I drop the tagline but keep the headset cue with "XR.AM," ensuring recognition even at tiny sizes.
@@ -103,7 +103,7 @@ In the end, the logo feels both simple and meaningful. The bold "XR" and the sub
         {
           id: 1,
           name: "Salon Membership Poster 1",
-          image: "/poster1.png",
+          image: "/Portfolio/poster1.png",
           story: `This poster was designed to introduce a new membership policy for a salon, specifically targeting irregular clients and price-conscious customers. The design strategy focused heavily on psychological triggers that drive customer engagement.
 
 Understanding that certain words have immediate impact on consumer psychology, I strategically incorporated attention-grabbing terms like "free," "limited time," "save," "Buy one Get one," and "50% off." The numerical presentation of savings was intentionally prominent, as concrete numbers help potential customers quickly grasp the value proposition.
@@ -116,7 +116,7 @@ Design Focus: Customer Psychology, Value Proposition, Instant Appeal`
         {
           id: 2,
           name: "Salon Membership Poster 2",
-          image: "/poster2.png",
+          image: "/Portfolio/poster2.png",
           story: `This poster serves as a comprehensive follow-up to the membership teaser, delivering detailed information about the salon's membership program. The design challenge was to present extensive information while maintaining visual appeal and readability.
 
 Following the client's requirement for brand consistency, I strictly adhered to the salon's color palette throughout the design. The information was carefully structured and presented in a clean, organized format to ensure that all membership benefits were clearly communicated without overwhelming the viewer.
@@ -158,7 +158,7 @@ Design Focus: Information Hierarchy, Brand Consistency, Clear Communication`
         {
           id: 1,
           name: "Salon Management Dashboard",
-          image: "/Billing System.png",
+          image: "/Portfolio/Billing System.png",
           story: `This isn't just another project – it's a personal venture born from my upcoming salon business. I wanted to create something that wasn't just functional, but deeply thoughtful about the real needs of salon management.
 
 Building this system with TypeScript and integrating various AI tools has been an exciting journey into modern development. As someone who'll be using this software in my own salon, I'm creating it with both technical excellence and practical usability in mind.
