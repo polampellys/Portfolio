@@ -72,5 +72,5 @@ This project is open source and available under the [MIT License](LICENSE).
 Feel free to reach out if you have any questions or just want to connect:
 
 - Email: suhasinipolampelly@gmail.com
-- LinkedIn: [Suhasini Polampelly(https://www.linkedin.com/in/suhasinipolampelly/)]
+- LinkedIn: [Suhasini Polampelly](https://www.linkedin.com/in/suhasinipolampelly/)
 - GitHub: [@polampellys](https://github.com/polampellys)
