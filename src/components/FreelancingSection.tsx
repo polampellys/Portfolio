@@ -136,7 +136,7 @@ Design Focus: Information Hierarchy, Brand Consistency, Clear Communication`
     type: "Web Application",
     count: "Ongoing Project",
     image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=600&fit=crop",
-    technologies: ["JavaScript", "Node.js", "Database Design", "AI Tools", "Lovable AI","GitHub Copilot (Vibe Coding)"],
+    technologies: ["JavaScript", "Node.js", "Database Design", "Lovable AI","GitHub Copilot (Vibe Coding)"],
     description: "Developing a comprehensive billing and appointment management system (Currently in progress)",
     details: {
       process: [
