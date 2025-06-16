@@ -1,0 +1,29 @@
+
+import React from 'react';
+import Navigation from '@/components/Navigation';
+import HeroSection from '@/components/HeroSection';
+import AboutSection from '@/components/AboutSection';
+import WorkExperience from '@/components/WorkExperience';
+import FreelancingSection from '@/components/FreelancingSection';
+import ProjectsSection from '@/components/ProjectsSection';
+import SkillsSection from '@/components/SkillsSection';
+import ContactSection from '@/components/ContactSection';
+import Footer from '@/components/Footer';
+
+const Index = () => {
+  return (
+    <div className="min-h-screen bg-portfolio-cream">
+      <Navigation />
+      <HeroSection />
+      <AboutSection />
+      <WorkExperience />
+      <FreelancingSection />
+      <ProjectsSection />
+      <SkillsSection />
+      <ContactSection />
+      <Footer />
+    </div>
+  );
+};
+
+export default Index;
