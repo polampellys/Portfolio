@@ -37,10 +37,10 @@ const Footer = () => {
           <div className="md:text-right">
             <h3 className="text-sm uppercase tracking-wider mb-4 text-portfolio-navy/60">Connect</h3>
             <div className="flex md:justify-end space-x-4">
-              <a href="https://linkedin.com/in/suhasini-polampelly" target="_blank" rel="noopener noreferrer" className="text-portfolio-navy/80 hover:text-portfolio-navy transition-colors">
+              <a href="https://www.linkedin.com/in/suhasinipolampelly/" target="_blank" rel="noopener noreferrer" className="text-portfolio-navy/80 hover:text-portfolio-navy transition-colors">
                 LinkedIn
               </a>
-              <a href="https://github.com/suhasini-polampelly" target="_blank" rel="noopener noreferrer" className="text-portfolio-navy/80 hover:text-portfolio-navy transition-colors">
+              <a href="https://github.com/polampellys" target="_blank" rel="noopener noreferrer" className="text-portfolio-navy/80 hover:text-portfolio-navy transition-colors">
                 GitHub
               </a>
               <a href="mailto:suhasinipolampelly@gmail.com" className="text-portfolio-navy/80 hover:text-portfolio-navy transition-colors">
