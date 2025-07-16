@@ -34,25 +34,24 @@ const freelanceProjects = [
           name: "Tales of Aarambh",
           image: "/Portfolio/ARAMBH.png",
           story: `The Challenge:
-Create a brand identity for an event management agency that emphasizes culture and tradition while incorporating specific initials: A, R, M, B.
+Create a brand identity for an event management agency with a strong vision - emphasizes culture and tradition.
+
+They wanted a name and design rooted in culture and tradition, with a vibrant feel that celebrates beginnings. A key creative constraint was to find a name that reflected their essence while incorporating their initials: A, R, M, and B.
 
 The Name Story:
-'Aarambh' (meaning 'beginning' in Sanskrit) was the perfect discovery—naturally including all required initials:
+As soon as I heard roots and tradition, I knew this brand needed to lean into vibrant colors - celebratory, bold, and full of life. That guided my design direction right from the start.
+
+For the name, I explored Indian heritage and Sanskrit, looking for something meaningful and timeless. That’s when I discovered the word “Aarambh” (meaning 'beginning' in Sanskrit) including all required initials:
 • A (Aarambh)
 • R (aRaMbh)
 • M (aaraMbh)
 • B (aaramBh)
 
 Design Evolution:
-• Expanded to "Tales of Aarambh" to emphasize storytelling
-• Added tagline "Your Story, Our Stage"
-• Incorporated vibrant colors celebrating life and tradition
+From there, I expanded the idea into a full brand identity. Since each event is a story, a celebration of life’s special moments, I developed the name further into “Tales of Aarambh”— a poetic, elegant name that holds deep meaning. The tagline “Your Story, Our Stage” followed naturally, emphasizing how this agency helps bring people’s stories to life.
 
 Design Inspiration:
-Drawing from Indian mythology and childhood stories, the peacock feather was chosen as the central motif—a timeless symbol of:
-• Grace and beauty
-• Auspicious beginnings
-• Cultural heritage
+When it came to the logo, I knew it wasn’t about using short forms or initials. The name and tagline already carried the identity. Instead, I wanted to pair them with a symbol that was both traditional and vibrant, something rooted in Indian culture. That’s when I drew inspiration from my father’s love of mythology - from the stories he used to tell me growing up. I thought of the peacock, a timeless Indian symbol known for its beauty, grace, and association with auspicious beginnings. The peacock feather, in particular, felt like the perfect representation of vibrance, elegance, and new journeys.
 
 Final Design:
 A custom wordmark with the peacock feather subtly woven into the typography, creating a logo that's:
