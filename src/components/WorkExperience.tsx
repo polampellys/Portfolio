@@ -36,6 +36,38 @@ const experiences = [
   },
   {
     id: 2,
+    title: "Associate Software Engineer",
+    company: "Volta Ride App",
+    location: "Hyderabad, India",
+    duration: "2023 - 2024",
+    type: "Full-time",
+    color: "bg-blue-100 text-blue-700",
+    shortDescription: "Full-stack development for 0% commission ride-hailing platform serving Hyderabad",
+    technologies: ["React Native", "Node.js", "Python", "MongoDB", "Vue.js", "Express.js", "Redux"],
+    details: {
+      responsibilities: [
+        "Developed and maintained frontend components for rider and driver mobile applications",
+        "Built backend APIs for ride booking, payment processing, and driver onboarding systems",
+        "Collaborated with cross-functional teams on real-time tracking and matching algorithms",
+        "Implemented payment gateway integrations and transaction monitoring systems"
+      ],
+      achievements: [
+        "Contributed to 8-member team migrating 15+ React Native components, implementing Redux state management for booking flow, reducing component rendering issues by 40% and improving code maintainability",
+        "Built real-time ride status updates using WebSocket integration and React hooks, working with senior developers on Google Maps API implementation, reducing user confusion about ride progress",
+        "Implemented ride booking API endpoints using Node.js and Express framework, integrating with MongoDB for data persistence and input validation, successfully handling 500+ concurrent booking requests during load testing with 99% success rate",
+        "Built driver document verification module using Python and third-party KYC APIs, contributing to automated onboarding pipeline that processes 50+ weekly driver applications, reducing manual review bottlenecks by 30%",
+        "Integrated Razorpay payment gateway using REST APIs and webhook implementation, developing transaction logging and status tracking features, ensuring reliable instant payment processing for 200+ active drivers",
+        "Developed driver earnings dashboard components using Vue.js and TypeScript, collaborating with backend team for API integration, enabling drivers to track daily/weekly earnings more effectively"
+      ],
+      aboutOrganization: {
+        mission: "To revolutionize urban mobility in Hyderabad with India's first 0% commission ride-hailing platform",
+        about: "Volta is Hyderabad's pioneering ride-hailing app that operates on a 0% commission model, offering auto, bike, and car rides without surge pricing while ensuring 100% instant payments to drivers.",
+        vision: "To create a sustainable and fair transportation ecosystem that benefits both riders and drivers while promoting eco-friendly mobility solutions through EV integration."
+      }
+    }
+  },
+  {
+    id: 3,
     title: "Software Engineer",
     company: "PricewaterhouseCoopers",
     location: "Dubai, UAE",
@@ -58,7 +90,7 @@ const experiences = [
     }
   },
   {
-    id: 3,
+    id: 4,
     title: "Junior Software Engineer",
     company: "JK Projects",
     location: "Hyderabad, India", 
@@ -82,7 +114,7 @@ const experiences = [
     }
   },
   {
-    id: 4,
+    id: 5,
     title: "Web Application Developer Intern",
     company: "Peopleone",
     location: "Chennai, India",
