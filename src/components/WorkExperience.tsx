@@ -10,7 +10,7 @@ const experiences = [
     title: "Full-Stack Developer & UI/UX Designer",
     company: "Saayam for ALL (NGO)",
     location: "San Jose, USA (Remote)",
-    duration: "2024 - Present",
+    duration: "2025 - Present",
     type: "Volunteer",
     color: "bg-green-100 text-green-700",
     shortDescription: "Volunteering as a full-stack developer and UI/UX team member for social impact",
@@ -36,6 +36,33 @@ const experiences = [
   },
   {
     id: 2,
+    title: "Frontend Developer, Web Application & API Integration",
+    company: "Elynndi",
+    location: "Sacramento, USA (Remote)",
+    duration: "October 2025",
+    type: "Contract",
+    color: "bg-green-100 text-green-700",
+    shortDescription: "Volunteering as a full-stack developer and UI/UX team member for social impact",
+    technologies: ["React", "Google Firebase Studios", "OpenAI API", "Googleheet App Script"],
+    details: {
+      responsibilities: [
+        "Collaborated with the founder to enhance the web app’s frontend and backend features for smoother user experience.",
+        "Implemented responsive UI adjustments and improved component behavior across mobile and desktop screens.",
+        "Integrated copy-to-clipboard functionality and optimized layout spacing for visual consistency."
+      ],
+      achievements: [
+        "Successfully deployed updated version of the app with 100% functionality and UI stability.",
+        "Improved mobile responsiveness, ensuring consistent alignment across devices",
+        "Enhanced overall usability and accessibility of the quiz component, leading to a more polished interface"
+      ],
+      aboutOrganization: {
+        about: "Elynndí is a learning-and-development consultancy led by expert, credentialed teachers. They partner with organizations to design, deliver, and enhance training, onboarding, customer education, and internal learning programs, translating classroom teaching expertise into real-world organizational learning solutions.",
+        vision: "To become the go-to learning partner for organizations that treat learning and development as core strategic assets."
+      }
+    }
+  },
+  {
+    id: 3,
     title: "Associate Software Engineer",
     company: "Volta Ride App",
     location: "Hyderabad, India (Remote)",
@@ -67,7 +94,7 @@ const experiences = [
     }
   },
   {
-    id: 3,
+    id: 4,
     title: "Software Engineer",
     company: "PricewaterhouseCoopers",
     location: "Dubai, UAE",
@@ -90,7 +117,7 @@ const experiences = [
     }
   },
   {
-    id: 4,
+    id: 5,
     title: "Junior Software Engineer",
     company: "JK Projects",
     location: "Hyderabad, India", 
@@ -114,7 +141,7 @@ const experiences = [
     }
   },
   {
-    id: 5,
+    id: 6,
     title: "Web Application Developer Intern",
     company: "Peopleone",
     location: "Chennai, India",
